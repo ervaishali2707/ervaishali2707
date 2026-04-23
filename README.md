@@ -116,7 +116,7 @@ Replace the cards below with your actual repos:
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - [ ] 🧠 Complete a Machine Learning course end-to-end
 - [ ] 📦 Publish 3+ data science projects on GitHub
