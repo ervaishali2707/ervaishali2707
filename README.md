@@ -119,7 +119,7 @@ Replace the cards below with your actual repos:
 ## 🎯 Goals for 2026
 
 - [ ] 🧠 Complete a Machine Learning course end-to-end
-- [ ] 📦 Publish 3+ data science projects on GitHub
+- [ ] 📦 Publish 15+ data science projects on GitHub
 - [ ] 🏆 Participate in a Kaggle competition
 - [ ] 📝 Write technical blogs on Medium / Hashnode
 - [ ] 🤝 Contribute to an open-source AI/ML repository
